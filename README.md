@@ -2,4 +2,4 @@
 
 ## Integrantes : William Teles, Gabriel Lima.
 
-database: https://archive.ics.uci.edu/ml/datasets/Spambase
+dataset: https://archive.ics.uci.edu/ml/datasets/Spambase
